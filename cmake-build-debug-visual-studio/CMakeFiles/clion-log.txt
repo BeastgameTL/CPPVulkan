@@ -1,0 +1,4 @@
+"D:\EditorsLib\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/EditorsLib/CLion 2021.1/bin/ninja/win/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=F:/Tools/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja F:\ProgrammingProjects\CPP\vulkan_tut
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/ProgrammingProjects/CPP/vulkan_tut/cmake-build-debug-visual-studio

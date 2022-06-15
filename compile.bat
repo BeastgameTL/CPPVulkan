@@ -1,0 +1,2 @@
+F:\Tools\VulkanSDK\Bin\glslc.exe source/shader/simple_shader.vert -o artifacts/shader/simple_shader.vert.spv
+F:\Tools\VulkanSDK\Bin\glslc.exe source/shader/simple_shader.frag -o artifacts/shader/simple_shader.frag.spv

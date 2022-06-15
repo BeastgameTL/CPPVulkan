@@ -1,0 +1,16 @@
+# ninja log v5
+27	1252	6770016436000464	CMakeFiles/vulkan_tut.dir/source/main.cpp.obj	7383666e4d8a878b
+831	1824	6770023542214497	../binaries/vulkan_tut.exe	282110fa80b7654a
+26	1040	6769419765100141	CMakeFiles/vulkan_tut.dir/source/lve_window.cpp.obj	7bd1d6ab42056e4e
+0	1253	6770016436040156	CMakeFiles/vulkan_tut.dir/source/first_app.cpp.obj	6d0c22c8877eaadb
+1	831	6770023537462548	CMakeFiles/vulkan_tut.dir/source/lve_pipeline.cpp.obj	eb21916bdf1324e9
+1	949	6769516298724939	CMakeFiles/vulkan_tut.dir/source/lve_device.cpp.obj	8dedf59beed3fda2
+1	1052	6770034345612320	CMakeFiles/vulkan_tut.dir/source/first_app.cpp.obj	ee1e29c8b02cf52e
+30	1055	6770034345632160	CMakeFiles/vulkan_tut.dir/source/main.cpp.obj	453d313c0d5c87c0
+26	1070	6770034345780959	CMakeFiles/vulkan_tut.dir/source/lve_window.cpp.obj	c771ff11d73a5820
+19	1089	6770034346009126	CMakeFiles/vulkan_tut.dir/source/lve_pipeline.cpp.obj	8a182e659235d46b
+23	1352	6770034348613124	CMakeFiles/vulkan_tut.dir/source/lve_device.cpp.obj	e9ce2378a09b7a0e
+1352	2486	6770034354728531	../binaries/vulkan_tut.exe	282110fa80b7654a
+1	972	6770048055086375	CMakeFiles/vulkan_tut.dir/source/first_app.cpp.obj	ee1e29c8b02cf52e
+22	979	6770048055150844	CMakeFiles/vulkan_tut.dir/source/main.cpp.obj	453d313c0d5c87c0
+16	881	6770049419274453	CMakeFiles/vulkan_tut.dir/source/lve_pipeline.cpp.obj	8a182e659235d46b
